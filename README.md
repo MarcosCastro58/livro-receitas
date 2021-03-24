@@ -5,4 +5,4 @@
 Olá! Bem vindo ao meu Livro de Receitas :wave:
 
 - Strogonoff de Frango
-- Pavê
+- Filé de Tilápia
